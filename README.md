@@ -1,16 +1,28 @@
-# tanysaiyq
 
-A new Flutter project.
+# **Tanysaiyq – UI мобильного приложения для знакомств (Flutter)**  
+📱 *Дизайн и интерфейс мобильного приложения для знакомств, разработанный на Flutter.*  
 
-## Getting Started
+🔗 [Смотреть демо на YouTube](https://www.youtube.com/shorts/3rP4t_6p0GA)
 
-This project is a starting point for a Flutter application.
+## 🔥 **Что реализовано?**  
+✅ **Экран входа и регистрации**  
+✅ **Экран просмотра анкет**  
+✅ **Экран чатов**  
+✅ **Экран профиля**  
+✅ **Тёмная и светлая тема**  
+✅ **Экран настройки**  
+✅ **Адаптивный дизайн для разных экранов**  
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 **Технологии**  
+- **Язык:** Dart  
+- **Фреймворк:** Flutter  
+- **Состояние:** Bloc 
+- **UI-библиотеки:** Flutter Material, Cupertino, кастомные компоненты
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 **Как запустить проект?**  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Устанавливаем зависимости
+flutter pub get  
+
+# Запускаем проект
+flutter run  
